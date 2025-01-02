@@ -4,7 +4,7 @@ This demo sample explains how to change Xamarin.Forms Card background by conditi
 ## Syncfusion controls:
 
 This project used the following Syncfusion control(s):
-* [SfCalendar](https://www.syncfusion.com/xamarin-ui-controls/xamarin-cards)
+* [SfCards](https://www.syncfusion.com/xamarin-ui-controls/xamarin-cards)
 
 ## Requirements to run the sample
 
